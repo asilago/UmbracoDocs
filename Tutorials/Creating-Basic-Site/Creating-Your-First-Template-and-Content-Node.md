@@ -3,6 +3,7 @@
 
 Next click the expand node icon (it's the small triangle) behind the **_Settings >_** **_Templates folder_** - you should then see a child node titled "_Homepage_" - Umbraco created this automatically when we created the **_Document Type_** (remember that option that said "..without template", we chose the one with and this is what it did).  
 
+**NOTE: If you do not see the HomePage under Templates.  Click on Templates -> click ... -> click Reload. **
 
 Clicking on the **_Homepage node_** will load the template - which, except for a little bit of Razor code, is empty!
 
